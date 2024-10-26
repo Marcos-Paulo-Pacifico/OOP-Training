@@ -1,0 +1,14 @@
+C:\DEV\Udemy\Exercicios\bin\Debug\net8.0\Exercicios.exe
+C:\DEV\Udemy\Exercicios\bin\Debug\net8.0\Exercicios.deps.json
+C:\DEV\Udemy\Exercicios\bin\Debug\net8.0\Exercicios.runtimeconfig.json
+C:\DEV\Udemy\Exercicios\bin\Debug\net8.0\Exercicios.dll
+C:\DEV\Udemy\Exercicios\bin\Debug\net8.0\Exercicios.pdb
+C:\DEV\Udemy\Exercicios\obj\Debug\net8.0\Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\Udemy\Exercicios\obj\Debug\net8.0\Exercicios.AssemblyInfoInputs.cache
+C:\DEV\Udemy\Exercicios\obj\Debug\net8.0\Exercicios.AssemblyInfo.cs
+C:\DEV\Udemy\Exercicios\obj\Debug\net8.0\Exercicios.csproj.CoreCompileInputs.cache
+C:\DEV\Udemy\Exercicios\obj\Debug\net8.0\Exercicios.dll
+C:\DEV\Udemy\Exercicios\obj\Debug\net8.0\refint\Exercicios.dll
+C:\DEV\Udemy\Exercicios\obj\Debug\net8.0\Exercicios.pdb
+C:\DEV\Udemy\Exercicios\obj\Debug\net8.0\Exercicios.genruntimeconfig.cache
+C:\DEV\Udemy\Exercicios\obj\Debug\net8.0\ref\Exercicios.dll
